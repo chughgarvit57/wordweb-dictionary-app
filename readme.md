@@ -36,3 +36,7 @@ This application uses the [Example Dictionary API](https://api.dictionaryapi.dev
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
+
+## Live Demo
+
+Check out the live version of the app [here](https://word-web-dictionary.netlify.app/).
