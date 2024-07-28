@@ -1,12 +1,11 @@
 # WordWeb Dictionary App
 
-A user-friendly dictionary app built with HTML, CSS, and JavaScript, leveraging APIs to provide definitions, synonyms, and example sentences.
+A user-friendly dictionary app built with HTML, CSS, and JavaScript, leveraging APIs to provide definitions and example sentence.
 
 ## Features
 
 - Look up word definitions
-- Find synonyms and antonyms
-- View example sentences
+- View example sentence
 - Responsive design
 
 ## Technologies Used
