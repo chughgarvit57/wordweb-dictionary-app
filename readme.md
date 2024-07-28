@@ -5,8 +5,7 @@ A user-friendly dictionary app built with HTML, CSS, and JavaScript, leveraging 
 ## Features
 
 - Look up word definitions
-- Find synonyms and antonyms
-- View example sentences
+- View example sentence
 - Responsive design
 
 ## Technologies Used
